@@ -1,0 +1,22 @@
+
+.relatedvideo-item p {
+  margin-bottom: 1rem;
+  width: 90%;
+}
+
+.singlerelatedvideo {
+  border-bottom: 1px solid rgb(158, 158, 158);
+  margin: 1rem 0 0 0;
+  padding: 1rem;
+  color: white;
+  text-decoration: none;
+}
+
+.singlerelatedvideo img:hover {
+  box-shadow: 6px 6px 12px black;
+  transform: scale(1.00);
+}
+
+.singlerelatedvideo-item {
+  margin-top: 1rem;
+}
